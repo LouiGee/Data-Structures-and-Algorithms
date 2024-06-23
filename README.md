@@ -4,7 +4,7 @@ Notes on Data Structures and Algorithms using C
 
 ## Time Complexity (Big O notation)
 
-![alt text](/Users/luisgoate/Desktop/timecomplexity.png "Time Complexity")
+![timecomplexity](/Users/luisgoate/Desktop/timecomplexity "Time Complexity")
 
 | Operation          | Linked Lists          | Arrays   |
 | :-----------------:|:---------------------:| :-------:|
