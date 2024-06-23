@@ -1,6 +1,10 @@
 # Data-Structures-and-Algorithms
 Notes on Data Structures and Algorithms using C
 
+## Target hours revision 
+Target: 100
+Current: 5
+Hours per day needed: 1
 
 ## Time Complexity (Big O notation)
 
