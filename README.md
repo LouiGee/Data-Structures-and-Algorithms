@@ -3,7 +3,7 @@ Notes on Data Structures and Algorithms using C
 
 ## Target hours revision 
 **Target**: 100 \
-**Current**: 5  \
+**Current**: 5.5  \
 **Hours per day needed**: 1 
 
 ## Time Complexity (Big O notation)
@@ -27,3 +27,4 @@ Notes on Data Structures and Algorithms using C
 | :-----------------:|:---------------------:| :-------:|
 | Counting elements  | O(n)                  | O(1)     |
 | Printing data      | O(n)                  | O(n)     |
+| End Insertion      | O(1)                  | O(n) if array is full|
