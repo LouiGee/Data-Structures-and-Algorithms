@@ -29,4 +29,7 @@ Notes on Data Structures and Algorithms using C
 | Printing data      | O(n)                  | O(n)     |
 | End Insertion      | O(1)                  | O(n) if array is full|
 | Beginning Insertion| O(1)                  | O(n)     |
+| Position Insertion | O(n)                  | O(n)     |
+| Deletion at End    | O(n)                  | O(1)     |
+| Deletion at Beginning| O(1)                | O(n)     |
 
