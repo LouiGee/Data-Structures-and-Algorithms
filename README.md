@@ -49,3 +49,4 @@ Notes on Data Structures and Algorithms using C
 
 <img width="794" alt="Screenshot 2024-06-26 at 12 25 39" src="https://github.com/LouiGee/Data-Structures-and-Algorithms/assets/42655505/a4775db4-7d27-4cb0-b3bc-a35f60b587f0">
 
+# Stack
