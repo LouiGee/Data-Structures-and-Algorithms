@@ -41,12 +41,11 @@ Notes on Data Structures and Algorithms using C
 
 <img width="786" alt="Screenshot 2024-06-26 at 12 09 27" src="https://github.com/LouiGee/Data-Structures-and-Algorithms/assets/42655505/7dca6f0d-0ee7-471d-bb68-4ee624e6b714">
 
-
 <img width="1092" alt="Screenshot 2024-06-26 at 12 10 45" src="https://github.com/LouiGee/Data-Structures-and-Algorithms/assets/42655505/f5b23a17-b407-4134-9949-91725197edf4">
-
 
 <img width="727" alt="Screenshot 2024-06-26 at 12 20 42" src="https://github.com/LouiGee/Data-Structures-and-Algorithms/assets/42655505/0ca4d03c-1cbc-4ec1-9e3a-21db5873abfb">
 
 <img width="361" alt="Screenshot 2024-06-26 at 12 23 43" src="https://github.com/LouiGee/Data-Structures-and-Algorithms/assets/42655505/b5f239d9-d835-4df1-ad5a-7d116462a2f9">
 
+<img width="794" alt="Screenshot 2024-06-26 at 12 25 39" src="https://github.com/LouiGee/Data-Structures-and-Algorithms/assets/42655505/a4775db4-7d27-4cb0-b3bc-a35f60b587f0">
 
