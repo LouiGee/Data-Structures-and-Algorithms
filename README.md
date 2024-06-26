@@ -3,7 +3,7 @@ Notes on Data Structures and Algorithms using C
 
 ## Target hours revision 
 **Target**: 100 \
-**Current**: 7  \
+**Current**: 8  \
 **Hours per day needed**: 1 
 
 ## Time Complexity (Big O notation)
@@ -32,7 +32,7 @@ Notes on Data Structures and Algorithms using C
 | Position Insertion | O(n)                  | O(n)     |
 | Deletion at End    | O(n)                  | O(1)     |
 | Deletion at Beginning| O(1)                | O(n)     |
-| Deletion at Position|                  
+| Deletion at Position| O(n) When not at beginning| O(n)|                 
 | Traversal          | O(n)                  | O(n)     |
 
 
