@@ -6,6 +6,11 @@ Notes on Data Structures and Algorithms using C
 **Current**: 8  \
 **Hours per day needed**: 1 
 
+# Array
+
+<img width="797" alt="Screenshot 2024-06-27 at 20 26 14" src="https://github.com/LouiGee/Data-Structures-and-Algorithms/assets/42655505/2adea0ad-3cdf-48ae-b368-529d0e094642">
+
+
 ## Time Complexity (Big O notation)
 
 | Algorithmic Runtimes (Fastest to slowest) |
