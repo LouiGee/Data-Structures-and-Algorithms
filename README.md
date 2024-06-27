@@ -55,3 +55,8 @@ Why choose a linked list to represent a stack?
 
 <img width="703" alt="Screenshot 2024-06-27 at 19 29 24" src="https://github.com/LouiGee/Data-Structures-and-Algorithms/assets/42655505/5de79242-9f2a-4740-babb-4e28417a5980">
 
+<img width="539" alt="Screenshot 2024-06-27 at 19 33 27" src="https://github.com/LouiGee/Data-Structures-and-Algorithms/assets/42655505/e2ebd558-76bb-4984-9f50-d1a4beb27bcd">
+
+<img width="759" alt="Screenshot 2024-06-27 at 20 07 42" src="https://github.com/LouiGee/Data-Structures-and-Algorithms/assets/42655505/6d3ffd2c-3623-4ebc-89ba-b2aec937d352">
+
+
