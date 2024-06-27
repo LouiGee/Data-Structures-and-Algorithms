@@ -50,3 +50,8 @@ Notes on Data Structures and Algorithms using C
 <img width="794" alt="Screenshot 2024-06-26 at 12 25 39" src="https://github.com/LouiGee/Data-Structures-and-Algorithms/assets/42655505/a4775db4-7d27-4cb0-b3bc-a35f60b587f0">
 
 # Stack
+
+Why choose a linked list to represent a stack?
+
+<img width="703" alt="Screenshot 2024-06-27 at 19 29 24" src="https://github.com/LouiGee/Data-Structures-and-Algorithms/assets/42655505/5de79242-9f2a-4740-babb-4e28417a5980">
+
