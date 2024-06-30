@@ -3,7 +3,7 @@ Notes on Data Structures and Algorithms using C
 
 ## Target hours revision 
 **Target**: 100 \
-**Current**: 9  \
+**Current**: 911  \
 **Hours per day needed**: 1 
 
 # Array
