@@ -39,6 +39,7 @@ Notes on Data Structures and Algorithms using C
 | Deletion at Beginning| O(1)                | O(n)     |
 | Deletion at Position| O(n) When not at beginning| O(n)|                 
 | Traversal          | O(n)                  | O(n)     |
+| Memory Allocation | Non-Contiguous | Contiguous       |
 
 
 
