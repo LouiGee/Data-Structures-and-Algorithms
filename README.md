@@ -59,6 +59,8 @@ Notes on Data Structures and Algorithms using C
 
 Why choose a linked list to represent a stack?
 
+<img width="799" alt="Screenshot 2024-06-30 at 15 37 46" src="https://github.com/LouiGee/Data-Structures-and-Algorithms/assets/42655505/b472849a-c88a-4418-ad55-458fa048ca7e">
+
 <img width="703" alt="Screenshot 2024-06-27 at 19 29 24" src="https://github.com/LouiGee/Data-Structures-and-Algorithms/assets/42655505/5de79242-9f2a-4740-babb-4e28417a5980">
 
 <img width="539" alt="Screenshot 2024-06-27 at 19 33 27" src="https://github.com/LouiGee/Data-Structures-and-Algorithms/assets/42655505/e2ebd558-76bb-4984-9f50-d1a4beb27bcd">
