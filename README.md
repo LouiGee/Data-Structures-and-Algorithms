@@ -45,6 +45,9 @@ Notes on Data Structures and Algorithms using C
 
 ### Linked List Reversal 
 
+
+<img width="375" alt="Screenshot 2024-07-01 at 08 01 55" src="https://github.com/LouiGee/Data-Structures-and-Algorithms/assets/42655505/f05b16cf-e9af-4ba2-ad13-c321757e4d2b">
+
 <img width="750" alt="Screenshot 2024-06-26 at 12 09 27" src="https://github.com/LouiGee/Data-Structures-and-Algorithms/assets/42655505/7dca6f0d-0ee7-471d-bb68-4ee624e6b714">
 
 <img width="750" alt="Screenshot 2024-07-01 at 07 34 43" src="https://github.com/LouiGee/Data-Structures-and-Algorithms/assets/42655505/db780b5b-4846-4f11-b7a9-9fc6cc023edb">
